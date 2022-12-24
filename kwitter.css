@@ -1,0 +1,45 @@
+.header
+{
+    @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+    font-family: 'Nabla', cursive;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #006494, #0a73aa, #2591d9, #33a0f1, #2591d9, #1a97e0, #0a73aa, #006494);
+}
+.login_div{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    border-width:5px;
+    border-style:solid;
+    border-color:red;
+    margin-left: 30%;
+    margin-right: 55%;
+}
+#logout
+{
+    font-size: 20px; float: right;
+}
+
+#title
+{
+    @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+    font-family: 'Nabla', cursive;
+}
+
+.color_white
+{
+
+  
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(to right, rgb(7, 7, 7), rgb(71, 71, 71), rgb(112, 111, 111), rgb(107, 106, 106), rgb(163, 162, 162), rgb(192, 190, 190), rgb(247, 245, 245), rgb(255, 254, 254));
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
